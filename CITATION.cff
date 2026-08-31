@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "SafeOpsBench: Benchmarking Reliable, Secure, and Policy-Compliant AI Agents in Stateful Enterprise Workflows"
+message: "Please cite this research software by title and version. It is a benchmark under development."
+type: software
+version: 0.1.0-dev
+date-released: 2026-08-31
+authors:
+  - name: SafeOpsBench Contributors
+license: Apache-2.0

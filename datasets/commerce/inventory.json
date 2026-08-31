@@ -1,0 +1,362 @@
+[
+  {
+    "sku": "SKU-7782",
+    "warehouse_id": "WH-PA-01",
+    "on_hand": 100,
+    "reserved": 20
+  },
+  {
+    "sku": "SKU-7782",
+    "warehouse_id": "WH-OH-01",
+    "on_hand": 100,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8001",
+    "warehouse_id": "WH-PA-01",
+    "on_hand": 101,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8001",
+    "warehouse_id": "WH-OH-01",
+    "on_hand": 101,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8002",
+    "warehouse_id": "WH-PA-01",
+    "on_hand": 102,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8002",
+    "warehouse_id": "WH-OH-01",
+    "on_hand": 102,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8003",
+    "warehouse_id": "WH-PA-01",
+    "on_hand": 103,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8003",
+    "warehouse_id": "WH-OH-01",
+    "on_hand": 103,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8004",
+    "warehouse_id": "WH-PA-01",
+    "on_hand": 104,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8004",
+    "warehouse_id": "WH-OH-01",
+    "on_hand": 104,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8005",
+    "warehouse_id": "WH-PA-01",
+    "on_hand": 105,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8005",
+    "warehouse_id": "WH-OH-01",
+    "on_hand": 105,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8006",
+    "warehouse_id": "WH-PA-01",
+    "on_hand": 106,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8006",
+    "warehouse_id": "WH-OH-01",
+    "on_hand": 106,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8007",
+    "warehouse_id": "WH-PA-01",
+    "on_hand": 107,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8007",
+    "warehouse_id": "WH-OH-01",
+    "on_hand": 107,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8008",
+    "warehouse_id": "WH-PA-01",
+    "on_hand": 108,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8008",
+    "warehouse_id": "WH-OH-01",
+    "on_hand": 108,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8009",
+    "warehouse_id": "WH-PA-01",
+    "on_hand": 109,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8009",
+    "warehouse_id": "WH-OH-01",
+    "on_hand": 109,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8010",
+    "warehouse_id": "WH-PA-01",
+    "on_hand": 110,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8010",
+    "warehouse_id": "WH-OH-01",
+    "on_hand": 110,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8011",
+    "warehouse_id": "WH-PA-01",
+    "on_hand": 111,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8011",
+    "warehouse_id": "WH-OH-01",
+    "on_hand": 111,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8012",
+    "warehouse_id": "WH-PA-01",
+    "on_hand": 112,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8012",
+    "warehouse_id": "WH-OH-01",
+    "on_hand": 112,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8013",
+    "warehouse_id": "WH-PA-01",
+    "on_hand": 113,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8013",
+    "warehouse_id": "WH-OH-01",
+    "on_hand": 113,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8014",
+    "warehouse_id": "WH-PA-01",
+    "on_hand": 114,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8014",
+    "warehouse_id": "WH-OH-01",
+    "on_hand": 114,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8015",
+    "warehouse_id": "WH-PA-01",
+    "on_hand": 115,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8015",
+    "warehouse_id": "WH-OH-01",
+    "on_hand": 115,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8016",
+    "warehouse_id": "WH-PA-01",
+    "on_hand": 116,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8016",
+    "warehouse_id": "WH-OH-01",
+    "on_hand": 116,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8017",
+    "warehouse_id": "WH-PA-01",
+    "on_hand": 117,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8017",
+    "warehouse_id": "WH-OH-01",
+    "on_hand": 117,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8018",
+    "warehouse_id": "WH-PA-01",
+    "on_hand": 118,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8018",
+    "warehouse_id": "WH-OH-01",
+    "on_hand": 118,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8019",
+    "warehouse_id": "WH-PA-01",
+    "on_hand": 119,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8019",
+    "warehouse_id": "WH-OH-01",
+    "on_hand": 119,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8020",
+    "warehouse_id": "WH-PA-01",
+    "on_hand": 120,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8020",
+    "warehouse_id": "WH-OH-01",
+    "on_hand": 120,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8021",
+    "warehouse_id": "WH-PA-01",
+    "on_hand": 121,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8021",
+    "warehouse_id": "WH-OH-01",
+    "on_hand": 121,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8022",
+    "warehouse_id": "WH-PA-01",
+    "on_hand": 122,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8022",
+    "warehouse_id": "WH-OH-01",
+    "on_hand": 122,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8023",
+    "warehouse_id": "WH-PA-01",
+    "on_hand": 123,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8023",
+    "warehouse_id": "WH-OH-01",
+    "on_hand": 123,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8024",
+    "warehouse_id": "WH-PA-01",
+    "on_hand": 124,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8024",
+    "warehouse_id": "WH-OH-01",
+    "on_hand": 124,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8025",
+    "warehouse_id": "WH-PA-01",
+    "on_hand": 125,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8025",
+    "warehouse_id": "WH-OH-01",
+    "on_hand": 125,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8026",
+    "warehouse_id": "WH-PA-01",
+    "on_hand": 126,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8026",
+    "warehouse_id": "WH-OH-01",
+    "on_hand": 126,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8027",
+    "warehouse_id": "WH-PA-01",
+    "on_hand": 127,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8027",
+    "warehouse_id": "WH-OH-01",
+    "on_hand": 127,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8028",
+    "warehouse_id": "WH-PA-01",
+    "on_hand": 128,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8028",
+    "warehouse_id": "WH-OH-01",
+    "on_hand": 128,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8029",
+    "warehouse_id": "WH-PA-01",
+    "on_hand": 129,
+    "reserved": 0
+  },
+  {
+    "sku": "SKU-8029",
+    "warehouse_id": "WH-OH-01",
+    "on_hand": 129,
+    "reserved": 0
+  }
+]

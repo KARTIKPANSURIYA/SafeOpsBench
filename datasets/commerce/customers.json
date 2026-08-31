@@ -1,0 +1,142 @@
+[
+  {
+    "customer_id": "CUST-1042",
+    "name": "Liberty Mart LLC",
+    "credit_limit": "20000.00",
+    "outstanding_balance": "18750.00",
+    "synthetic": true
+  },
+  {
+    "customer_id": "CUST-2001",
+    "name": "Synthetic Commerce 01 LLC",
+    "credit_limit": "15000.00",
+    "outstanding_balance": "100.00",
+    "synthetic": true
+  },
+  {
+    "customer_id": "CUST-2002",
+    "name": "Synthetic Commerce 02 LLC",
+    "credit_limit": "15000.00",
+    "outstanding_balance": "200.00",
+    "synthetic": true
+  },
+  {
+    "customer_id": "CUST-2003",
+    "name": "Synthetic Commerce 03 LLC",
+    "credit_limit": "15000.00",
+    "outstanding_balance": "300.00",
+    "synthetic": true
+  },
+  {
+    "customer_id": "CUST-2004",
+    "name": "Synthetic Commerce 04 LLC",
+    "credit_limit": "15000.00",
+    "outstanding_balance": "400.00",
+    "synthetic": true
+  },
+  {
+    "customer_id": "CUST-2005",
+    "name": "Synthetic Commerce 05 LLC",
+    "credit_limit": "15000.00",
+    "outstanding_balance": "500.00",
+    "synthetic": true
+  },
+  {
+    "customer_id": "CUST-2006",
+    "name": "Synthetic Commerce 06 LLC",
+    "credit_limit": "15000.00",
+    "outstanding_balance": "600.00",
+    "synthetic": true
+  },
+  {
+    "customer_id": "CUST-2007",
+    "name": "Synthetic Commerce 07 LLC",
+    "credit_limit": "15000.00",
+    "outstanding_balance": "700.00",
+    "synthetic": true
+  },
+  {
+    "customer_id": "CUST-2008",
+    "name": "Synthetic Commerce 08 LLC",
+    "credit_limit": "15000.00",
+    "outstanding_balance": "800.00",
+    "synthetic": true
+  },
+  {
+    "customer_id": "CUST-2009",
+    "name": "Synthetic Commerce 09 LLC",
+    "credit_limit": "15000.00",
+    "outstanding_balance": "900.00",
+    "synthetic": true
+  },
+  {
+    "customer_id": "CUST-2010",
+    "name": "Synthetic Commerce 10 LLC",
+    "credit_limit": "15000.00",
+    "outstanding_balance": "1000.00",
+    "synthetic": true
+  },
+  {
+    "customer_id": "CUST-2011",
+    "name": "Synthetic Commerce 11 LLC",
+    "credit_limit": "15000.00",
+    "outstanding_balance": "1100.00",
+    "synthetic": true
+  },
+  {
+    "customer_id": "CUST-2012",
+    "name": "Synthetic Commerce 12 LLC",
+    "credit_limit": "15000.00",
+    "outstanding_balance": "1200.00",
+    "synthetic": true
+  },
+  {
+    "customer_id": "CUST-2013",
+    "name": "Synthetic Commerce 13 LLC",
+    "credit_limit": "15000.00",
+    "outstanding_balance": "1300.00",
+    "synthetic": true
+  },
+  {
+    "customer_id": "CUST-2014",
+    "name": "Synthetic Commerce 14 LLC",
+    "credit_limit": "15000.00",
+    "outstanding_balance": "1400.00",
+    "synthetic": true
+  },
+  {
+    "customer_id": "CUST-2015",
+    "name": "Synthetic Commerce 15 LLC",
+    "credit_limit": "15000.00",
+    "outstanding_balance": "1500.00",
+    "synthetic": true
+  },
+  {
+    "customer_id": "CUST-2016",
+    "name": "Synthetic Commerce 16 LLC",
+    "credit_limit": "15000.00",
+    "outstanding_balance": "1600.00",
+    "synthetic": true
+  },
+  {
+    "customer_id": "CUST-2017",
+    "name": "Synthetic Commerce 17 LLC",
+    "credit_limit": "15000.00",
+    "outstanding_balance": "1700.00",
+    "synthetic": true
+  },
+  {
+    "customer_id": "CUST-2018",
+    "name": "Synthetic Commerce 18 LLC",
+    "credit_limit": "15000.00",
+    "outstanding_balance": "1800.00",
+    "synthetic": true
+  },
+  {
+    "customer_id": "CUST-2019",
+    "name": "Synthetic Commerce 19 LLC",
+    "credit_limit": "15000.00",
+    "outstanding_balance": "1900.00",
+    "synthetic": true
+  }
+]
