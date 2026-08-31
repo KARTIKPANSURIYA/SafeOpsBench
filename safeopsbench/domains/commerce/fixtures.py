@@ -1,0 +1,5 @@
+"""Synthetic fixture constants."""
+
+PRIMARY_CUSTOMER_ID = "CUST-1042"
+PRIMARY_SKU = "SKU-7782"
+PRIMARY_WAREHOUSE_ID = "WH-PA-01"

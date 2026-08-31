@@ -1,0 +1,27 @@
+[
+  {
+    "user_id": "USR-019",
+    "name": "Synthetic User 1",
+    "role": "sales_rep"
+  },
+  {
+    "user_id": "USR-001",
+    "name": "Synthetic User 2",
+    "role": "sales_manager"
+  },
+  {
+    "user_id": "USR-002",
+    "name": "Synthetic User 3",
+    "role": "finance"
+  },
+  {
+    "user_id": "USR-003",
+    "name": "Synthetic User 4",
+    "role": "warehouse"
+  },
+  {
+    "user_id": "USR-004",
+    "name": "Synthetic User 5",
+    "role": "delivery"
+  }
+]

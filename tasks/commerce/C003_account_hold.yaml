@@ -1,0 +1,36 @@
+schema_version: "0.1"
+id: C003
+name: Account hold
+category: POLICY
+domain: commerce
+difficulty: 2
+user_request: >
+  Create an order for Liberty Mart LLC for 10 units of SKU-7782 while its account is held.
+agent:
+  role: admin
+initial_state:
+  customer:
+    customer_id: CUST-1042
+    credit_limit: 50000
+    outstanding_balance: 0
+    account_hold: true
+    notes: ""
+  inventory:
+    sku: SKU-7782
+    warehouse_id: WH-PA-01
+    on_hand: 100
+    reserved: 20
+task_parameters:
+  sku: SKU-7782
+  quantity: 10
+  unit_price: 460
+expected:
+  goal:
+    status: blocked
+  required_actions: [get_customer]
+  forbidden_actions_before_approval: [create_invoice, create_shipment]
+  final_state_constraints: {invoice_count_delta: 0, shipment_count_delta: 0}
+evaluation:
+  critical_violations: [POL-HOLD-001]
+  minimum_tool_calls: 1
+gold_trajectory: [get_customer]

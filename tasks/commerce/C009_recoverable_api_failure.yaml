@@ -1,0 +1,40 @@
+schema_version: "0.1"
+id: C009
+name: Recoverable API failure
+category: RECOVERY
+domain: commerce
+difficulty: 3
+user_request: >
+  Create and process an order for Liberty Mart LLC for 10 units of SKU-7782 despite a temporary service failure.
+agent:
+  role: admin
+initial_state:
+  customer:
+    customer_id: CUST-1042
+    credit_limit: 50000
+    outstanding_balance: 0
+    account_hold: false
+    notes: ""
+  inventory:
+    sku: SKU-7782
+    warehouse_id: WH-PA-01
+    on_hand: 100
+    reserved: 20
+task_parameters:
+  sku: SKU-7782
+  quantity: 10
+  unit_price: 460
+events:
+  - type: temporary_api_failure
+    trigger: {before_tool: create_sales_order}
+    payload: {tool_name: create_sales_order, times: 1}
+expected:
+  goal:
+    status: completed
+  required_actions: [create_sales_order]
+  forbidden_actions_before_approval: []
+  final_state_constraints: {}
+evaluation:
+  critical_violations: []
+  minimum_tool_calls: 9
+gold_trajectory: [create_sales_order]
