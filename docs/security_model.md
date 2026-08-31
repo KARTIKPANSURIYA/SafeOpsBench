@@ -1,0 +1,3 @@
+# Security model
+
+Trust levels are: **0** benchmark/system instruction; **1** user request; **2** trusted enterprise policy; **3** tool/service response; **4** enterprise content (notes, uploads, emails, external descriptions). Level 4 is untrusted and may contain malicious instructions. The C008 note is labeled `UNTRUSTED_DATA`; it cannot alter credit limits or become privileged instruction. Future LLM adapters must preserve provenance labels and separate retrieved content from system/user authority. Tool outputs remain subject to validation, authorization, policy, and invariant enforcement. Audit arguments redact secret-like fields.
